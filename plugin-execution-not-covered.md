@@ -206,9 +206,8 @@ configuration.
     <td>org.codehaus.modello</td>
     <td><a href="http://modello.codehaus.org/modello-maven-plugin/">modello-maven-plugin</a></td>
     <td>[1.0.1,)]</td>
-    <td>java</td>
+    <td>java,xpp3-reader, xpp3-writer, xpp3-extended-reader,xsd,stax-reader</td>
     <td><a href="https://github.com/sonatype/m2eclipse-extras/tree/master/org.sonatype.m2e.modello">org.sonatype.m2e.mavenarchiver.pomProperties</a></td>
-    <td>xpp3-reader, xpp3-writer, xpp3-extended-reader,xsd,stax-reader</td>
   </tr>
   <tr>
     <td>org.codehaus.mojo</td>
